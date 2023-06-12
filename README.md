@@ -71,7 +71,7 @@ password : 123456
 ```
 
 ## List API
-import file collection and enviroment in the root folder
+import file collection and enviroment in the root folder to postman
 ```
 collection : Vhiweb.postman_collection.json
 enviroment : vhiweb.postman_environment.json
